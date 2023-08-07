@@ -1,2 +1,2 @@
-connect
-azure_con
+sql/connect.py
+sql/azure_con.py
