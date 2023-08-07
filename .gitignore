@@ -1,2 +1,3 @@
-connectDB/sql/connect.py
-connectDB/sql/azure_con.py
+sql/connects.py
+sql/azureconnect.py
+ETL/etlcon.py

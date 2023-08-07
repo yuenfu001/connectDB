@@ -2,7 +2,7 @@ import pyodbc
 import pandas as pd
 from sqlalchemy import create_engine
 import urllib
-from etl_con import *
+from etlcon import *
 
 try:
     # Connect to the local SQL Server (SSMS)

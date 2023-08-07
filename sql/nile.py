@@ -1,5 +1,5 @@
 import pypyodbc as odbc, pandas as pd
-from connect import *
+from connects import *
 
 server = servername2
 database = db1

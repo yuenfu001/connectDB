@@ -1,5 +1,5 @@
 import pypyodbc as odbc, pandas as pd
-from azure_con import *
+from azureconnect import *
 
 server = Server
 database = Database
